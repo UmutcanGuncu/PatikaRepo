@@ -1,0 +1,36 @@
+.motorbikeButton {
+    border-radius: 210.417px 210.417px 0px 0px;
+    background: #DBDBDB;
+    width: 391.375px;
+    height: 357.708px;
+    transform: rotate(-90deg);
+    flex-shrink: 0;
+    border-color: #DBDBDB;
+    position: absolute;
+    z-index: -1;
+}
+
+.box {
+    width: 122.369px;
+    height: 96.09px;
+    flex-shrink: 0;
+    border-radius: 4.633px;
+    border: 0.463px solid #F4F4F4;
+    background: #FFF;
+    box-shadow: 0px 9.266167640686035px 18.53233528137207px 0px rgba(0, 0, 0, 0.06);
+}
+.number{
+display: flex;
+width: 122.042px;
+height: 161.319px;
+flex-direction: column;
+justify-content: center;
+flex-shrink: 0;
+font-family: Calistoga;
+font-size: 105.208px;
+font-style: normal;
+font-weight: 300;
+line-height: 161.319px; 
+letter-spacing: 1.052px;
+
+}
